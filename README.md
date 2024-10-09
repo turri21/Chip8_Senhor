@@ -2,7 +2,7 @@
 
 Tested: Working Video 720p, 1080p
 
-Dev notes: Added support for .bin files extension
+Dev notes: Added support for .bin file extension
 
 # FPGA SuperChip #
 
