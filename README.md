@@ -1,4 +1,8 @@
--=(
+=(Chip8_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p
+
+Dev notes: Added support for .bin files extension
 
 # FPGA SuperChip #
 
