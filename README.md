@@ -1,3 +1,5 @@
+-=(
+
 # FPGA SuperChip #
 
 This is a Verilog implementation of the SuperChip virtual machine. The implementation can execute Chip-8 and SuperChip programs. Hybrids, the Chip-8X and MegaChip extensions are not supported.
