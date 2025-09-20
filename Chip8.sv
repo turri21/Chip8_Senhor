@@ -167,7 +167,7 @@ module emu
 localparam CONF_STR = {
 	"Chip8;;",
 	"-;",
-	"F,CH8;",
+	"F,CH8BIN;",
 	"-;",
 	"O4,Aspect ratio,4:3,16:9;",
 	"O8A,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%;",
