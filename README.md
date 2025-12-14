@@ -1,3 +1,10 @@
+=(Chip8_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+Dev notes: Added support for .bin file extension
+
+___
 # FPGA SuperChip #
 
 This is a Verilog implementation of the SuperChip virtual machine. The implementation can execute Chip-8 and SuperChip programs. Hybrids, the Chip-8X and MegaChip extensions are not supported.
@@ -28,3 +35,4 @@ The Chip-8 machine has a hex keypad for input. This has been mapped to the PC ke
 # Download #
 
 Downloads can be found in the [releases folder](https://github.com/MiSTer-devel/Chip8_MiSTer/tree/master/releases)
+
